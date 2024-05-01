@@ -1,0 +1,9 @@
+PLEASE READ CAREFULLY AND THEN APPLY!
+
+I need a python web automation expert. Here all the instructions:
+1) Go to https://finance.yahoo.com/quote/T/community
+2) Click on login button.
+3) Continue with google, Take gmail account and password from a excel file (I already authorized my gmails with yahoo so not need to continue with fist name, last name and birthday date)
+4) Take posting text from excel file and then post it in community section.
+
+5) After the post, clean browser history and take next email and text and then post again and continue in this way until all my accounts are done!
